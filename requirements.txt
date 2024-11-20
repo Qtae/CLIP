@@ -4,3 +4,6 @@ regex
 tqdm
 torch
 torchvision
+clip-by-openai
+Pillow
+numpy
